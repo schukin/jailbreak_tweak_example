@@ -28,4 +28,8 @@ Ugh, submodules.
 
 I almost certainly skipped over some steps. Here's a guide on Reddit which I [mostly] depended on to get up & running:
 
-[Flex to MobileSubstrate: A beginner's guide to making a tweak.](http://www.reddit.com/r/jailbreak/comments/20nxy8/flex_to_mobilesubstrate_a_beginners_guide_to/)
+* [Flex to MobileSubstrate: A beginner's guide to making a tweak.](http://www.reddit.com/r/jailbreak/comments/20nxy8/flex_to_mobilesubstrate_a_beginners_guide_to/)
+
+More Theos examples can be found here:
+
+* https://github.com/codyd51/Theos-Examples
