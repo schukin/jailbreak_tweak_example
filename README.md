@@ -1,5 +1,15 @@
 # Jailbreak tweak guide
 
+## Clone this repo
+
+Ugh, submodules.
+
+	$ git clone git@github.com:schukin/jailbreak_tweak_example.git
+	$ cd jailbreak_tweak_example
+	$ git submodule update --init --recursive
+
+## Start tweaking
+
 1. Open up `Tweak.xm`, and write any overridden method implementations there.
 
 2. Open `MyTweak.plist`, and change the bundle ID to that of whatever app you're trying to tweak.
